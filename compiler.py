@@ -16,7 +16,7 @@ https://gitnub.com/ARYANTECH123
 a = 0
 
 #Self explanatory, its the source code!
-code = '++--:|'
+code = ''
 
 #Private input and output strings
 inp = ''
